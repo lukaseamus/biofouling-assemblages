@@ -2,8 +2,8 @@
 Ecological analyses of biofouling assemblages on settlement tiles.
 
 
-This repository contains two .csv files and one .R file. The .csv files 
-contain the raw (rawdata.csv) and processed (tile.csv) data. The .R file
+This repository contains two csv files and one R file. The csv files 
+contain the raw (raw.csv) and processed (tile.csv) data. The R file
 contains all analytical and data visualisation procedures.
 
 Analyses include multi-way ANOVA, Student's t.test, Wilcoxon signed-rank test,
