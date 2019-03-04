@@ -11,7 +11,7 @@ PERMANOVA, SIMPER, SIMPROF and PCO. Visualisations are mostly plotted with ggplo
 and include histograms, scatterplots, barplots, boxplots, dendrograms, nMDS plots
 and maps.
 
-Packages used include car, vegan, goeveg, clustsig, psych, ggplot2, gridExtra, 
+Packages used, include car, vegan, goeveg, clustsig, psych, ggplot2, gridExtra, 
 ggmap, and ape. 
 
 
