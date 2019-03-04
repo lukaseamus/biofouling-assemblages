@@ -8,7 +8,11 @@ contains all analytical and data visualisation procedures.
 
 Analyses include multi-way ANOVA, Student's t.test, Wilcoxon signed-rank test,
 PERMANOVA, SIMPER, SIMPROF and PCO. Visualisations are mostly plotted with ggplot2 
-and include histograms, scatterplots, barplots, boxplots, dendrograms and nMDS plots.
+and include histograms, scatterplots, barplots, boxplots, dendrograms, nMDS plots
+and maps.
+
+Packages used include car, vegan, goeveg, clustsig, psych, ggplot2, gridExtra, 
+ggmap, and ape. 
 
 
 Luka Seamus Wright
