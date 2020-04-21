@@ -7,7 +7,7 @@
 ### Univariate analyses
 ## load data
 
-tile <- read.csv("~/Desktop/Plymouth University/MBIO217/Tile diversity/tile.csv")
+tile <- read.csv("~/PATH/tile.csv")
 
 ## labelling
 
